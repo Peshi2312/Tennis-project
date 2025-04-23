@@ -1,0 +1,18 @@
+C:\Users\Peshi\source\repos\Project Tennis 2.0\bin\Debug\net8.0-windows\Project Tennis 2.0.exe
+C:\Users\Peshi\source\repos\Project Tennis 2.0\bin\Debug\net8.0-windows\Project Tennis 2.0.deps.json
+C:\Users\Peshi\source\repos\Project Tennis 2.0\bin\Debug\net8.0-windows\Project Tennis 2.0.runtimeconfig.json
+C:\Users\Peshi\source\repos\Project Tennis 2.0\bin\Debug\net8.0-windows\Project Tennis 2.0.dll
+C:\Users\Peshi\source\repos\Project Tennis 2.0\bin\Debug\net8.0-windows\Project Tennis 2.0.pdb
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project_Tennis_2._0.Form1.resources
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project_Tennis_2._0.Form2.resources
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project_Tennis_2._0.Form3.resources
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.csproj.GenerateResource.cache
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.AssemblyInfoInputs.cache
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.AssemblyInfo.cs
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.dll
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\refint\Project Tennis 2.0.dll
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.pdb
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\Project Tennis 2.0.genruntimeconfig.cache
+C:\Users\Peshi\source\repos\Project Tennis 2.0\obj\Debug\net8.0-windows\ref\Project Tennis 2.0.dll
